@@ -1,0 +1,25 @@
+# 构建产物
+bin/
+obj/
+dist/
+*.pdb
+*.cache
+
+# 游戏本体文件，绝不上传
+Skul_Data/
+2020.3.34/
+BepInEx/
+doorstop_config.ini
+winhttp.dll
+steamclient*.dll
+
+# 压缩包 / 下载的第三方 mod
+*.zip
+_待装mod/
+
+# 系统与编辑器
+.vs/
+.idea/
+*.user
+Thumbs.db
+desktop.ini
