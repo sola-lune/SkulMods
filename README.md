@@ -41,7 +41,7 @@
 ## 安装
 
 1. 游戏先装好 **BepInEx 5.4.21+**（[BepInExPack_Skul](https://thunderstore.io/c/skul-the-hero-slayer/p/BepInEx/BepInExPack_Skul/)）
-2. 到 [Releases](../../releases) 下载对应 DLL
+2. 到 [Releases](https://github.com/sola-lune/SkulMods/releases) 下载对应 DLL
 3. 放进 `Skul/BepInEx/plugins/<ModName>/` 目录
 
 ```
